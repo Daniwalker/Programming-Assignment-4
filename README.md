@@ -1,1 +1,2 @@
-
+When I ran the code in Google Nexus Emulator in Titanium Appcelerator it returns an error that reads " Uncaught ReferenceError: win1 is not defined. Source: win1.add(theColours); Location [25,1] app.js. My solution to this was to go back through the code and to find any missing commas or semi colons. I was unable to find any errors and but the code continued to display "Runtime Error"
+It appears that there wasn't any navigation between the two windows nor was there a code for a phone gadget. I would recommend following the instructions in the book to find the correct code for the navigation between the two windows and the phone gadget. The tea code did have 0 errors except for the one runtime error which disabled me from seeing the 10 different color bands.
